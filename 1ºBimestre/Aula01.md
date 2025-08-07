@@ -1,4 +1,4 @@
-_OBS: Eu não estava na aula por motivos médicos, o resumo foi baseado no do João..._
+_OBS: Eu não estava na aula por motivos médicos, será feito durante o fim de semana_
 
 # Introdução
 
