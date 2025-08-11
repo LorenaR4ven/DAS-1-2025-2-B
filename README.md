@@ -5,7 +5,11 @@ Turma 144-6BN 2025-2
   
   ---  
 
-  ## *SUMÁRIO*
+  ## *Livro - Capitulos lidos*
 
-  + Introdução
+> **Cap. 5**: Princípios de Projeto – Engenharia de Software Moderna <br>
+https://engsoftmoderna.info/cap5.html
+
+> **Cap. 7**: Arquitetura – Engenharia de Software Moderna <br>
+https://engsoftmoderna.info/cap7.html
 
