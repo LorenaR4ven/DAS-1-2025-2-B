@@ -13,3 +13,5 @@ https://engsoftmoderna.info/cap5.html
 > **Cap. 7**: Arquitetura – Engenharia de Software Moderna <br>
 https://engsoftmoderna.info/cap7.html
 
+> **Site Design Pattern** <br>
+https://refactoring.guru/design-patterns
