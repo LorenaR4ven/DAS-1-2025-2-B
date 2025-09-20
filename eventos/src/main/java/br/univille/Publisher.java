@@ -14,9 +14,6 @@ public class Publisher {
 
         // DefaultAzureCredential credential = new DefaultAzureCredentialBuilder().build();
 
-
-
-
         ServiceBusSenderClient senderClient = new ServiceBusClientBuilder()
             .fullyQualifiedNamespace(servidor)
             .transportType(AmqpTransportType.AMQP_WEB_SOCKETS)
@@ -26,7 +23,7 @@ public class Publisher {
             .topicName(topicName)
             .buildClient();
 
-        senderClient.sendMessage(new ServiceBusMessage("aaaaaaaaaaaaaaaaaaa - minhas pesquisas no bing"));
+        senderClient.sendMessage(new ServiceBusMessage("Lorena: (╯°□°）╯︵ ┻━┻"));
 
     }
 }

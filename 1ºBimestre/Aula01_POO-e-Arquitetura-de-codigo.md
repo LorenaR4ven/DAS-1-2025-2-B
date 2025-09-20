@@ -1,3 +1,8 @@
+## Resumo completo.
+> O resumo de todas as aulas está em um único arquivo ao final da pasta. Recomendo que veja ele, já que é apenas uma junção de todos com mais anotações. <br>
+
+ResumoCompleto.md
+
 # Introdução <br>
 ###### _Capitulo 5.1_
 
