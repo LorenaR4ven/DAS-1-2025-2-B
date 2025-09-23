@@ -1,5 +1,5 @@
 # Resumo completo
-> Aqui você irá encontrar todos os resumos das aulas anteriores.
+> Aqui você irá encontrar todos os resumos das aulas anteriores. (ignore erros de português)
 
 Utilizei esse arquivo para estudar, então, caixas marcadas como "anotação" são complementos adicionados após uma revisão do assunto.
 
