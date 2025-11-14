@@ -13,13 +13,11 @@
         <module>solid</module>
         <module>designpatterns</module>
         <module>eventos</module>
-<<<<<<< HEAD
-
+        <module>pipeline</module>
+        <module>microkernel-interface</module>
+        <module>microkernel-kernel</module>
+        <module>microkernel-plugin</module>
         <module>app-a</module>
         <module>app-b</module>
-=======
-        <module>pipeline</module>
->>>>>>> 27d94493b87e4c818a5ba31d2235b7820bc8a2c6
     </modules>
-    
 </project>
