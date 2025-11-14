@@ -14,6 +14,7 @@
             "request": "launch",
             "mainClass": "",
             "envFile": "${workspaceFolder}/.env"
+<<<<<<< HEAD
         },
         {
             "type": "java",
@@ -24,6 +25,8 @@
             "projectName": "microkernel-kernel",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+=======
+>>>>>>> 27d94493b87e4c818a5ba31d2235b7820bc8a2c6
         }
     ]
 }
