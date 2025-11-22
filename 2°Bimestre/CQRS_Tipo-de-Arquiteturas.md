@@ -4,8 +4,15 @@ O Pattern CQRS mostra a separação de responsabilidades entre bancos, permitind
 
 > Com esse padrão, entregamos desempenho e escalabilidade, em troca de custo. Mesmo economizando com recursos gasto na escalabilidade vertical, o custo virá com mais de um banco.
 
+#### The big ball of mud
 
-## Tipos de arquiteturas
+Ou, a **Grande Bola de Lama**, é considerada uma das piores “arquiteturas”. Mas também é a mais ensinada.
+
+Por quê? Essa arquitetura é a padronizada nos ensinos pela sua facilidade de compreensão. Consistindo em um grande espaguete de código, mal estruturado e cheio de gambiarras… definitivamente nada organizado. <br>
+Nesse cenário, dados são compartilhados descontroladamente, tudo vira variável global, nada é separado, e qualquer estrutura original se perde.
+
+
+Para programadores mais evoluídos (sim, existem seres evoluídos uau) preferem evitar esse tipo de arquitetura, para evitar o caos eminente em um sistema maior… Esse padrão é simples, um emaranhado de scripts que realizam eventos sem chamadas e nem organização.
 
 #### Arquitetura Unitária
 
