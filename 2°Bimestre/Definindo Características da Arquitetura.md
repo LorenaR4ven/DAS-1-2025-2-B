@@ -1,4 +1,4 @@
-# Definindo Características da Arquitetura
+# Fundamentos da arquitetura de software
 #### Cap. 04 - Fundamentos da arquitetura de software
 
 Existe uma grande dúvida de como devemos chamar os “requisitos não funcionais” que viemos nos referindo até agora para as qualidades de um sistema. Como segurança, desempenho, e entre outros. Porém, chamar de algo “não funcional” é algo degradante. 
