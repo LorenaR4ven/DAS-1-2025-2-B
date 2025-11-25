@@ -1,13 +1,13 @@
-package br.univille.app_b;
+package br.univille.microkernel_interface;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppBApplication {
+public class MicrokernelInterfaceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppBApplication.class, args);
+		SpringApplication.run(MicrokernelInterfaceApplication.class, args);
 	}
 
 }
